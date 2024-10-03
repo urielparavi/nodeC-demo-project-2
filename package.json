@@ -1,0 +1,17 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "practice in node.js",
+  "main": "Index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Uriel Paravi",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "~1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
